@@ -1,0 +1,26 @@
+[
+  {
+    "model": "catalogue.artist",
+    "pk": 1,
+    "fields": {
+      "firstname": "Bob",
+      "lastname": "Sull"
+    }
+  },
+  {
+    "model": "catalogue.artist",
+    "pk": 2,
+    "fields": {
+      "firstname": "Marc",
+      "lastname": "Flynn"
+    }
+  },
+  {
+    "model": "catalogue.artist",
+    "pk": 3,
+    "fields": {
+      "firstname": "Fred",
+      "lastname": "Durand"
+    }
+  }
+]
